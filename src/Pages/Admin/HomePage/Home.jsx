@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      <h1>Welcome to Student Panel</h1>
+      <h1>Welcome To Admin Panle</h1>
     </div>
   )
 }

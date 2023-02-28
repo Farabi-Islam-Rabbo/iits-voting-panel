@@ -15,7 +15,7 @@ const Dashboard = () => {
         selectionMode="multiple"
       >
         <Table.Header>
-          <Table.Column>NAME</Table.Column>
+          <Table.Column>TName</Table.Column>
           <Table.Column>ROLE</Table.Column>
           <Table.Column>STATUS</Table.Column>
         </Table.Header>

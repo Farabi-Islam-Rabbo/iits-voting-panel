@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.12",
     "bootstrap": "^5.2.3",
+    "evergreen-ui": "^7.1.4",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",

@@ -7,7 +7,7 @@ const ChevronDownIcon = ({ fill, size, width = 24, height = 24, ...props }) => {
       height={size || height || 24}
       viewBox="0 0 24 24"
       width={size || width || 24}
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="http://cse.iubat.edu/wp-content/uploads/2019/06/iubat_cse-logo.png"
       {...props}
     >
       <path

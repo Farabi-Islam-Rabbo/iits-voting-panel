@@ -5,7 +5,7 @@ export const AcmeLogo = () => (
     height="36"
     viewBox="0 0 32 32"
     width="36"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="http://cse.iubat.edu/wp-content/uploads/2019/06/iubat_cse-logo.png"
   >
     <rect fill="var(--secondary)" height="100%" rx="16" width="100%" />
     <path

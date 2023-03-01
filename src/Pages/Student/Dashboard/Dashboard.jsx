@@ -5,7 +5,6 @@ import { Table } from "@nextui-org/react";
 const Dashboard = () => {
   return (
     <>
-      <Navbars />
       <Table
         aria-label="Example static collection table with multiple selection"
         css={{

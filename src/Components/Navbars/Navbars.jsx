@@ -10,7 +10,7 @@ export default function Navbars() {
         <Navbar.Brand>
           <AcmeLogo />
           <Text b color="inherit" hideIn="xs">
-            ACME
+            IITS
           </Text>
         </Navbar.Brand>
         <Navbar.Content

@@ -143,7 +143,7 @@ export default function Navbars() {
                 icon={icons.scale}
               >
                 <Navbar.Link isActive href="/dashboard">
-                  Hi
+                  Hiiii
                 </Navbar.Link>{" "}
               </Dropdown.Item>
               <Dropdown.Item
